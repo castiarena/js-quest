@@ -9,4 +9,5 @@ The objective of this challenge is to build a stopwatch ([codepen example](https
 - Reset: it should restart the time count to 0
 
 should looks like:
+
 <img src="clock-preview.png"/>
