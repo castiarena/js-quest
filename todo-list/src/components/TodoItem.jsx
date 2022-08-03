@@ -1,6 +1,15 @@
-function TodoItem(){
+function TodoItem(props){
+
+
     return(
-        <p>I'm a item</p>
+        <li
+            style={{
+                textDecoration: props.done ? 'line-through' : 'none',
+                color: props.done ? 'blue' : 'green'
+            }}
+        >
+            {props.title}
+        </li>
     )
 }
 
