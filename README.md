@@ -33,9 +33,9 @@ We've done the following
 
 ## Contributors
 
-| Name |  email |
-|:-----|:------:|
-|Agustin Castiarena|castiarena@gmail.com|
+| | Name |  email |
+|:------:|:-----|:------:|
+|<img src="https://avatars.githubusercontent.com/u/1714040?s=40&v=4" alt="@castiarena">|Agustin Castiarena|castiarena@gmail.com|
 
 
 
