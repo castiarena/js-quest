@@ -1,9 +1,12 @@
-# ToDo list react
+# JS Quest
 
-Simple ToDoList App build in React.js
+Welcome to JS quest, a repository with excersices in Javascript that we participate in some screen sharing sessions
+for solvin problems. Mostly based on Frontend development tools to solve interaction features and projects.
 
-This is the display of this app
+Some of these ideas proposed to work on this repo:
 
-![](todo-list-react.gif)
+- stopwatch: [vanilla](https://github.com/castiarena/js-quest/tree/quest/stopwatch) and [react](https://github.com/castiarena/js-quest/tree/quest/stopwatch-react) versions
+- todo list: [react](https://github.com/castiarena/js-quest/tree/quest/todo-list-react) version only available
 
-If you want to run this app, you just need to clone this git repository and then simply type npm install & npm start in your terminal or command prompt. When the app running, your browser will open automatically and display this ToDoList.
+
+
